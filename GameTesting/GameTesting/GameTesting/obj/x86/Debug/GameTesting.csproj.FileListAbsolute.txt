@@ -1,0 +1,13 @@
+C:\Users\Robert\Desktop\GameTesting\GameTesting\GameTesting\GameTesting\bin\x86\Debug\GameTesting.exe
+C:\Users\Robert\Desktop\GameTesting\GameTesting\GameTesting\GameTesting\bin\x86\Debug\GameTesting.pdb
+C:\Users\Robert\Desktop\GameTesting\GameTesting\GameTesting\GameTesting\obj\x86\Debug\GameTesting.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\GameTesting\GameTesting\GameTesting\GameTesting\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Robert\Desktop\GameTesting\GameTesting\GameTesting\GameTesting\obj\x86\Debug\GameTesting.exe
+C:\Users\Robert\Desktop\GameTesting\GameTesting\GameTesting\GameTesting\obj\x86\Debug\GameTesting.pdb
+C:\Users\Robert\Desktop\GameTesting\GameTesting\GameTesting\GameTesting\bin\x86\Debug\Content\Textbox.xnb
+C:\Users\Robert\Desktop\GameTesting\GameTesting\GameTesting\GameTesting\bin\x86\Debug\Content\StartImage.xnb
+C:\Users\Robert\Desktop\GameTesting\GameTesting\GameTesting\GameTesting\bin\x86\Debug\Content\Char.xnb
+C:\Users\Robert\Desktop\GameTesting\GameTesting\GameTesting\GameTesting\bin\x86\Debug\Content\CharBounds.xnb
+C:\Users\Robert\Desktop\GameTesting\GameTesting\GameTesting\GameTesting\bin\x86\Debug\Content\Stairs.xnb
+C:\Users\Robert\Desktop\GameTesting\GameTesting\GameTesting\GameTesting\bin\x86\Debug\Content\ObstacleCourse.xnb
+C:\Users\Robert\Desktop\GameTesting\GameTesting\GameTesting\GameTesting\bin\x86\Debug\Content\Destroy.xnb
